@@ -21,3 +21,5 @@ Generated using Maple Software.
 ### Inverse CDF method (Sec. I)
 
 ![Figure 2](/Plots/InverseCDF.png)
+
+**Figure 2**: A histogram displaying data sampled using an inverse CDF. The black line represents y = exp −x. The bins can be seen to follow the trajectory of the black line.
