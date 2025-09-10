@@ -8,6 +8,8 @@
 
 ## Plots
 
+Generated using Maple Software.
+
 ### Rejection method (Sec. I)
 
 ### Inverse CDF method (Sec. I)
