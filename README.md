@@ -20,3 +20,4 @@ Generated using Maple Software.
 
 ### Inverse CDF method (Sec. I)
 
+![Figure 2](/Plots/InverseCDF.png)
