@@ -6,7 +6,6 @@
 
 **Section III**: Rayleigh scattering. Optical depth is varied to show why the sky is blue.
 
--- *Attached PDF provides detail on relevant theory* --
 
 ## Plots
 
