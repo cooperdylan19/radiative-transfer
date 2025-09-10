@@ -12,5 +12,11 @@ Generated using Maple Software.
 
 ### Rejection method (Sec. I)
 
+![Figure 1](/Plots/RejectionMethod.png)
+
+**Figure 1**: Black lines represents y = exp −x. *LEFT*: A scatter plot highlighting data points sampled using the rejection method. The blue data points represent the sampled data. *RIGHT*: A histogram highlighting where a higher density of data is sampled. The bin width is narrow for large y, since more data is generated in this space.
+<br/>
+
+
 ### Inverse CDF method (Sec. I)
 
