@@ -14,7 +14,7 @@ Generated using Maple Software.
 
 ![Figure 1](/Plots/RejectionMethod.png)
 
-**Figure 1**: Black lines represents y = exp −x. *LEFT*: A scatter plot highlighting data points sampled using the rejection method. The blue data points represent the sampled data. *RIGHT*: A histogram highlighting where a higher density of data is sampled. The bin width is narrow for large y, since more data is generated in this space.
+**Figure 1**: Black lines represent y = exp −x. *LEFT*: A scatter plot highlighting data points sampled using the rejection method. The blue data points represent the sampled data. *RIGHT*: A histogram highlighting where a higher density of data is sampled. The bin width is narrow for large y, since more data is generated in this space.
 <br/>
 
 
@@ -23,3 +23,7 @@ Generated using Maple Software.
 ![Figure 2](/Plots/InverseCDF.png)
 
 **Figure 2**: A histogram displaying data sampled using an inverse CDF. The black line represents y = exp −x. The bins can be seen to follow the trajectory of the black line.
+<br/>
+
+
+### Isotropic scattering (Sec. II)
