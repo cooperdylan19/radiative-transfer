@@ -27,3 +27,15 @@ Generated using Maple Software.
 
 
 ### Isotropic scattering (Sec. II)
+
+![Figure 3](/Plots/IsotropicScatterFinalPositions.png)
+
+**Figure 3**: Photons were modelled to scatter isotropically. *LEFT*: Scatter plot of the photons’ final exit positions in the (y, z) plane. *RIGHT*: Scatter plot of the photons’ final exit positions in the (x, y) plane.
+<br/>
+
+![Figure 4](/Plots/IsotropicScatterMovement.png)
+
+**Figure 4**: *LEFT*: A scatter plot showing which angles photons likely exit the medium at. Photons were binned according to scattering angle ϑ, the bin width was constant at 0.1 radians. *RIGHT*: A 3D plot showing the scattering patterns of 5 photons from their initial movement from the origin till they escape the medium.
+
+
+### Rayleigh scattering (Sec. III)
